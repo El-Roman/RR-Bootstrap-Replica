@@ -12,8 +12,8 @@ export default function TopBar() {
                     <Nav className="mr-auto">
                     </Nav>
                     <Nav style={{ padding: "24px 40px 20px 40px", fontSize: "18px", lineHeight: "26px", fontWeight: "bolder", display: "flex" }} >
-                        <Nav.Link style={{ color: "#343538" }} href="#LogIn">Log In</Nav.Link>
-                        <Button variant="success" style={{ fontSize: "18px" }}>Sign Up</Button>{' '}
+                        <Nav.Link style={{ color: "#2d7961" }} href="#LogIn">Log In</Nav.Link>
+                        <Button variant="success" style={{ fontSize: "20px" }}>Sign Up</Button>{' '}
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
